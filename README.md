@@ -1,1 +1,3 @@
-# two_ways_to_hold_a_secret
+# Two ways to hold a secret
+
+A decision framework and matched reference-pattern pair for classified workloads in sovereign air-gapped and public cloud
