@@ -1,0 +1,1 @@
+© 2026 James Patrick. This work is published under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). You are free to share and adapt the material for any purpose, including commercially, provided appropriate credit is given. The patterns are described at capability level and are vendor- and product-neutral.
